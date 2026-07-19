@@ -10,7 +10,7 @@ Tableau | Microsoft Excel | Kaggle Dataset
 
 
 ## Dataset Information
-- ### Attribute               Details
+- ### Attribute              - Details
 - Dataset                     Europe Bike Store Sales (Kaggle)
 - Total Records               113,036
 - Total Columns               18
