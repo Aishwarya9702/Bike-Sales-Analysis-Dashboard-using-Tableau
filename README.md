@@ -10,13 +10,13 @@ Tableau | Microsoft Excel | Kaggle Dataset
 
 
 ## Dataset Information
-### Attribute               Details
-Dataset                     Europe Bike Store Sales (Kaggle)
-Total Records               113,036
-Total Columns               18
-Years Covered               2011–2016 (6 Years)
-Countries                   6
-Product Categories          3 (Bikes, Accessories, Clothing)
+- ### Attribute               Details
+- Dataset                     Europe Bike Store Sales (Kaggle)
+- Total Records               113,036
+- Total Columns               18
+- Years Covered               2011–2016 (6 Years)
+- Countries                   6
+- Product Categories          3 (Bikes, Accessories, Clothing)
 
 
 <img width="968" height="607" alt="Screenshot 2026-07-19 003356" src="https://github.com/user-attachments/assets/eb25928d-f979-46c1-b5ba-e9c53b909cec" />
