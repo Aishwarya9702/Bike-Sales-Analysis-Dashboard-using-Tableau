@@ -14,7 +14,7 @@ Tableau | Microsoft Excel | Kaggle Dataset
 - Dataset -> Europe Bike Store Sales (Kaggle)
 - Total Records -> 113,036
 - Total Columns -> 18
-- Years Covered -> 2011–2016 (6 Years)
+- Years Covered -> 2011–2016
 - Countries -> 6
 - Product Categories -> 3 (Bikes, Accessories, Clothing)
 
